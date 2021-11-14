@@ -1,8 +1,10 @@
 # Hill-Walker-Device
- **Object Oriented Programming Coursework, Second Year of Computer Science**
+**Object Oriented Programming Coursework, Second Year of Computer Science**
 
-  ##Scenario
-The program must implement the FSM illustrated in Figure 5. As part of this program, design and implement a Java class that represents the wrist device
+  ## Scenario
+
+  
+  The program must implement the FSM illustrated in Figure 5. As part of this program, design and implement a Java class that represents the wrist device
 
 
    Below is a finite state machine. The FSM essentially represents the set of states that the device can be in, with transitions resulting from events and actions produced by one of the two buttons being pressed. Note that when the device is in ‘altimeter’ mode, pressing the ‘set’ button has no effect and the device remains in altimeter mode (this is sometimes referred to as a null transition).
