@@ -1,7 +1,7 @@
 # Hill-Walker-Device
  **Object Oriented Programming Coursework, Second Year of Computer Science**
 
- ##Scenario
+  ##Scenario
 The program must implement the FSM illustrated in Figure 5. As part of this program, design and implement a Java class that represents the wrist device
 
 
